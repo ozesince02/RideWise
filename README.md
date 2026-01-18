@@ -50,7 +50,3 @@ This repo uses a lightweight custom test runner (no JUnit dependency).
 - `docs/Class_Model.md`: key classes, responsibilities, and invariants
 - `docs/Object_Relationships.md`: relationships + lifecycle view
 - `docs/SOLID_Reflection.md`: where SOLID shows up in this codebase
-
-## Repo hygiene
-Do **not** commit generated output folders:
-- `out/` (javac output), `target/` (Maven), `build/` (IDE/build tool output)
