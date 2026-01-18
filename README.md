@@ -11,7 +11,7 @@ RideWise is a small, console-based ride-sharing simulation built to demonstrate 
 ## Project layout
 - **app**: `src/main/java/com/airtribe/ridewise`
 - **tests** (custom runner): `src/test/java/com/airtribe/ridewise/tests`
-- **docs** (don’t skip): `docs/`
+- **docs**: `docs/`
 
 ## Run (Windows)
 
