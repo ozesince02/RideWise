@@ -1,0 +1,17 @@
+# Build outputs / generated folders
+out/
+build/
+target/
+
+# IDE / OS noise
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+
